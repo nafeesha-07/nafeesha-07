@@ -1,0 +1,61 @@
+/*BACKGROUND-COLOR*/
+/*body{
+    background-color: aquamarine;
+}*/
+
+
+
+/*BACKGROUND LINEAR GRADIENT*/
+  /*body{
+    background:linear-gradient(rgb(2, 17, 176),rgb(214, 119, 119),rgb(138, 138, 245));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    border-bottom-style: double;
+    border-color: rgb(21, 21, 21);
+    border-bottom-width: 3px;
+    background:linear-gradient(rgb(244, 216, 244),rgb(47, 6, 149)) ;
+    padding:13px;
+    text-align: center;
+}
+    */
+
+    
+ /*BACKGROUND IMAGE*/
+ html{
+    background-image: url(3207_R1NUIEpPUyAxMTgtMDU.jpg);
+    background-repeat: no-repeat;
+    background-position: center;/*image move cheskodaniki*/
+    background-size: cover;/*page antha single img ravadaniki*/
+    background-attachment: fixed;/*bg-image move or fixed cheskovachu like text okkati scroll avvela*/
+
+ }
+
+ h1{
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background:linear-gradient(rgb(67, 115, 123),rgb(32, 90, 36),rgb(29, 29, 100));
+    width: fit-content;
+    text-align: center;
+    
+    
+
+ }
+
+ p{
+    color: rgb(1, 1, 1);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 510;
+    font-stretch: expanded;
+    width: fit-content;
+    text-align: center;
+ }
+
+ img{
+    border-style: solid;
+    padding: 10px;
+    border-width: 4px;
+    border-color: rgb(59, 67, 67);
+ }
